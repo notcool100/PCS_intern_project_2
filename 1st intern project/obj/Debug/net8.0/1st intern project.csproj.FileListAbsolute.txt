@@ -1,0 +1,30 @@
+C:\Users\Anjal\source\repos\1st intern project\1st intern project\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Anjal\source\repos\1st intern project\1st intern project\bin\Debug\net8.0\appsettings.json
+C:\Users\Anjal\source\repos\1st intern project\1st intern project\bin\Debug\net8.0\1st intern project.staticwebassets.runtime.json
+C:\Users\Anjal\source\repos\1st intern project\1st intern project\bin\Debug\net8.0\1st intern project.exe
+C:\Users\Anjal\source\repos\1st intern project\1st intern project\bin\Debug\net8.0\1st intern project.deps.json
+C:\Users\Anjal\source\repos\1st intern project\1st intern project\bin\Debug\net8.0\1st intern project.runtimeconfig.json
+C:\Users\Anjal\source\repos\1st intern project\1st intern project\bin\Debug\net8.0\1st intern project.dll
+C:\Users\Anjal\source\repos\1st intern project\1st intern project\bin\Debug\net8.0\1st intern project.pdb
+C:\Users\Anjal\source\repos\1st intern project\1st intern project\obj\Debug\net8.0\1st intern project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anjal\source\repos\1st intern project\1st intern project\obj\Debug\net8.0\1st intern project.AssemblyInfoInputs.cache
+C:\Users\Anjal\source\repos\1st intern project\1st intern project\obj\Debug\net8.0\1st intern project.AssemblyInfo.cs
+C:\Users\Anjal\source\repos\1st intern project\1st intern project\obj\Debug\net8.0\1st intern project.csproj.CoreCompileInputs.cache
+C:\Users\Anjal\source\repos\1st intern project\1st intern project\obj\Debug\net8.0\1st intern project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anjal\source\repos\1st intern project\1st intern project\obj\Debug\net8.0\1st intern project.RazorAssemblyInfo.cache
+C:\Users\Anjal\source\repos\1st intern project\1st intern project\obj\Debug\net8.0\1st intern project.RazorAssemblyInfo.cs
+C:\Users\Anjal\source\repos\1st intern project\1st intern project\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Anjal\source\repos\1st intern project\1st intern project\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Anjal\source\repos\1st intern project\1st intern project\obj\Debug\net8.0\staticwebassets\msbuild.1st intern project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Anjal\source\repos\1st intern project\1st intern project\obj\Debug\net8.0\staticwebassets\msbuild.build.1st intern project.props
+C:\Users\Anjal\source\repos\1st intern project\1st intern project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.1st intern project.props
+C:\Users\Anjal\source\repos\1st intern project\1st intern project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.1st intern project.props
+C:\Users\Anjal\source\repos\1st intern project\1st intern project\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Anjal\source\repos\1st intern project\1st intern project\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Anjal\source\repos\1st intern project\1st intern project\obj\Debug\net8.0\scopedcss\bundle\1st intern project.styles.css
+C:\Users\Anjal\source\repos\1st intern project\1st intern project\obj\Debug\net8.0\scopedcss\projectbundle\1st intern project.bundle.scp.css
+C:\Users\Anjal\source\repos\1st intern project\1st intern project\obj\Debug\net8.0\1st intern project.dll
+C:\Users\Anjal\source\repos\1st intern project\1st intern project\obj\Debug\net8.0\refint\1st intern project.dll
+C:\Users\Anjal\source\repos\1st intern project\1st intern project\obj\Debug\net8.0\1st intern project.pdb
+C:\Users\Anjal\source\repos\1st intern project\1st intern project\obj\Debug\net8.0\1st intern project.genruntimeconfig.cache
+C:\Users\Anjal\source\repos\1st intern project\1st intern project\obj\Debug\net8.0\ref\1st intern project.dll

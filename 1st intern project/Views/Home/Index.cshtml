@@ -1,0 +1,27 @@
+﻿@model List<ToDoListApp2.Models.TodoItem>
+
+<h2>To-Do List</h2>
+
+<ul>
+    @foreach (var item in Model)
+    {
+        <li>
+            @item.Title
+            @if (item.IsDone)
+            {
+                <span style="color: green;">(Done)</span>
+            }
+            else
+            {
+                <span style="color: red;">(Pending)</span>
+            }
+        </li>
+    }
+</ul>
+
+<h3>Add New To-Do Item</h3>
+<form asp-controller="Home" asp-action="AddTodoItem" method="post">
+    <label>Title:</label>
+    <input type="text" name="Title" required />
+    <button type="submit">Add</button>
+</form>
